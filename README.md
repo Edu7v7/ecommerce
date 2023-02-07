@@ -1,3 +1,3 @@
-# Proyecto Ecommerce con reac
+# Proyecto Ecommerce con React
 
 Codear en el curso!!
